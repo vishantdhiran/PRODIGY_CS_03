@@ -1,1 +1,2 @@
 # PRODIGY_CS_03
+This project offers a robust tool for assessing the strength of user passwords based on several key criteria: length, inclusion of uppercase and lowercase letters, numbers, and special characters. The tool analyzes the provided password and offers immediate feedback on its strength, helping users understand how secure their password is and how they can improve it. By highlighting areas such as character variety and length, this tool aims to promote the creation of strong, secure passwords to protect user accounts and sensitive information.
